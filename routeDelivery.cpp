@@ -4,7 +4,9 @@
 //the constructor
 routeDelivery::routeDelivery()
 {
-	depot x
+	depoX = 0; 
+	depotY = 0; 
+	customerCount = 0; 
 }
 
 
@@ -71,3 +73,4 @@ int main() { //take off after header function has been set
 
 
 }
+
