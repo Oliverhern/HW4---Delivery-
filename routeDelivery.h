@@ -3,6 +3,7 @@
 #include <string>
 #include <vector> //possibly take out or keep
 
+using namespace std; 
 
 //structure
 struct Customer { //for customer name and coordinates
@@ -36,6 +37,7 @@ public:
 	//setters
 	void Depot(int x, int y); //can also write as "void setDepot(int x, int y)
 };
+
 
 
 
