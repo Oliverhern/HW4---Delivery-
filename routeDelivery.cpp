@@ -1,6 +1,27 @@
 #include <iostream>
 #include "routeDelivery.h"
 
+//the constructor
+routeDelivery::routeDelivery()
+{
+	depot x
+}
+
+
+
+
+
+
+
+
+
+
+//INITIALLY DONE BEFORE USING CLASSES; REDO USING CLASSES
+//using this as a template |
+                           |
+                           |
+                           
+
 using namespace std;
 
 int main() { //take off after header function has been set
@@ -44,6 +65,7 @@ int main() { //take off after header function has been set
 	}
 
 	return 0;
+
 
 
 
