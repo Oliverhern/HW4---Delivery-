@@ -8,9 +8,11 @@ routeDelivery::routeDelivery()
 	depotY = 0; 
 	customerCount = 0; 
 }
+//add other getters/setters 
 
 
 
+//main method
 
 
 
@@ -73,4 +75,5 @@ int main() { //take off after header function has been set
 
 
 }
+
 
